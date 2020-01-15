@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <style>
+           .button{
+               text-align: center;
+               margin:20px;
+           } 
+           
+            
+                
+        </style>
+    </head>
+
+    <body>
+    
+        <form>
+            <fieldset style="text-align:center;"><legend> Personal data:</legend>
+            <h6>Name:<br>
+            <input type="text" name=name>
+            <h6>Gender:<br>
+            <input type="radio" name=gender>Male<br>
+            <input type="radio" name=gender>Female<br>
+            <h6>Birthdate:<br>
+            <input type="date" name=bdate>
+            <h6>Birth time:<br>    
+            <input type="datetime-local" name=btime>
+            <h6>Email:    
+                <input type="email" name=email>
+                <h6>Enter password:
+                <input type="password" name=pwd>
+            </fieldset>
+            
+            <fieldset style="text-align:center;"><legend> Miscellanous data:</legend>
+            <h6>Select language Known:<br>
+            <input type="checkbox" name=programming>Python<br>
+            <input type="checkbox" name=programming>Java<br>
+            <input type="checkbox" name=programming>C++<br>
+            <input type="checkbox" name=programming>C<br>
+            <h6>Select Favorite color:<br>
+            <input type="color" name=color><br>
+            <h6>Select week:
+            <input type="week" name=week>
+            <h6>Rate the site:
+            <input type="range" name=rate min=0 max=5>
+            </fieldset>
+            <div class="button">
+            <input type="reset">
+            <input type="submit">
+            </div>
+
+        
+
+        </form> 
+       
+    </body>
+</html>
