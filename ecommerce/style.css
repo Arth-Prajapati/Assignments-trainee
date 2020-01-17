@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: row;
+}
+
+#display{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+    
+    
+}
