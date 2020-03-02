@@ -1,0 +1,14 @@
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\bin\Debug\netstandard2.0\To-Do.deps.json
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\bin\Debug\netstandard2.0\To-Do.dll
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\bin\Debug\netstandard2.0\ref\To-Do.dll
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\bin\Debug\netstandard2.0\To-Do.pdb
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\To-Do.csprojAssemblyReference.cache
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\To-Do.AssemblyInfoInputs.cache
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\To-Do.AssemblyInfo.cs
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\To-Do.dll
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\ref\To-Do.dll
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\To-Do.pdb
+C:\Users\Arth Prajapati\Desktop\Xamarin\To-Do\To-Do\To-Do\obj\Debug\netstandard2.0\Page1.xaml.g.cs
